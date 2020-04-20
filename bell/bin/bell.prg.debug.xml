@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="3" lineNum="8" pc="268435456" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="3" lineNum="9" pc="268435460" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="3" lineNum="10" pc="268435478" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="15" pc="268435492" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="16" pc="268435496" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="19" pc="268435515" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="20" pc="268435538" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="23" pc="268435584" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="24" pc="268435607" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="27" pc="268435653" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="28" pc="268435676" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="31" pc="268435722" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="32" pc="268435745" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="36" pc="268435791" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="37" pc="268435834" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="38" pc="268435858" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="39" pc="268435880" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="40" pc="268435904" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="43" pc="268435926" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="4" lineNum="44" pc="268435978" symbol="onLayout"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="5" lineNum="51" pc="268435982" symbol="compute"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="5" lineNum="53" pc="268435986" symbol="compute"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="5" lineNum="54" pc="268435997" symbol="compute"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="5" lineNum="55" pc="268436010" symbol="compute"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="5" lineNum="57" pc="268436029" symbol="compute"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="6" lineNum="64" pc="268436046" symbol="onUpdate"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="6" lineNum="66" pc="268436050" symbol="onUpdate"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="6" lineNum="69" pc="268436093" symbol="onUpdate"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="6" lineNum="70" pc="268436117" symbol="onUpdate"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="6" lineNum="71" pc="268436144" symbol="onUpdate"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="6" lineNum="73" pc="268436171" symbol="onUpdate"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="6" lineNum="76" pc="268436195" symbol="onUpdate"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellView.mc" id="6" lineNum="78" pc="268436212" symbol="onUpdate"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellApp.mc" id="8" lineNum="5" pc="268436233" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellApp.mc" id="8" lineNum="6" pc="268436237" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellApp.mc" id="9" lineNum="10" pc="268436256" symbol="onStart"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellApp.mc" id="10" lineNum="14" pc="268436261" symbol="onStop"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellApp.mc" id="11" lineNum="18" pc="268436266" symbol="getInitialView"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellApp.mc" id="11" lineNum="19" pc="268436270" symbol="getInitialView"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellBackground.mc" id="13" lineNum="9" pc="268436338" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellBackground.mc" id="13" lineNum="10" pc="268436342" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellBackground.mc" id="13" lineNum="14" pc="268436363" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellBackground.mc" id="14" lineNum="17" pc="268436384" symbol="setColor"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellBackground.mc" id="14" lineNum="18" pc="268436388" symbol="setColor"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellBackground.mc" id="15" lineNum="21" pc="268436399" symbol="draw"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellBackground.mc" id="15" lineNum="22" pc="268436403" symbol="draw"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellBackground.mc" id="15" lineNum="23" pc="268436435" symbol="draw"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellDelegate.mc" id="17" lineNum="12" pc="268436448" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellDelegate.mc" id="17" lineNum="13" pc="268436452" symbol="initialize"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellDelegate.mc" id="18" lineNum="16" pc="268436471" symbol="onTap"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellDelegate.mc" id="18" lineNum="17" pc="268436475" symbol="onTap"/>
+        <entry filename="/home/simon/eclipse-workspace/bell/source/bellDelegate.mc" id="18" lineNum="19" pc="268436503" symbol="onTap"/>
+        <entry filename="Rez" id="24" lineNum="15" pc="268436507" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="17" pc="268436519" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="18" pc="268436532" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="20" pc="268436545" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="21" pc="268436569" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="22" pc="268436732" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="24" pc="268436895" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="33" pc="268436933" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="36" pc="268436945" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="37" pc="268436969" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="38" pc="268437102" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="40" pc="268437235" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="26" lineNum="49" pc="268437273" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="26" lineNum="52" pc="268437285" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="26" lineNum="53" pc="268437309" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="26" lineNum="54" pc="268437442" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="26" lineNum="56" pc="268437575" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="27" lineNum="65" pc="268437613" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="27" lineNum="68" pc="268437625" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="27" lineNum="69" pc="268437649" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="27" lineNum="70" pc="268437782" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="27" lineNum="72" pc="268437915" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="28" lineNum="81" pc="268437953" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="28" lineNum="84" pc="268437965" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="28" lineNum="85" pc="268437989" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="28" lineNum="86" pc="268438122" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="28" lineNum="88" pc="268438255" symbol="BottomRightLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="16" method="true" symbol="TopLeftLayout"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="8389138" symbol="label"/>
+        <entry id="9" object="true" symbol="bellView"/>
+        <entry id="18" method="true" symbol="BottomLeftLayout"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="15" method="true" symbol="MainLayout"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="10" object="true" symbol="bellApp"/>
+        <entry id="8389098" method="true" symbol="onTap"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry field="true" id="8389130" symbol="mColor"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry field="true" id="21" symbol="mValue"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="20" symbol="AppName"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="14" symbol="LauncherIcon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="17" method="true" symbol="TopRightLayout"/>
+        <entry field="true" id="8388747" symbol="currentHeartRate"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="12" module="true" symbol="Layouts"/>
+        <entry id="19" method="true" symbol="BottomRightLayout"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="13" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="11" object="true" symbol="bellDelegate"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435926" name="valueView" stackId="4" startPc="268435791"/>
+        <entry endPc="268435926" name="labelView" stackId="3" startPc="268435791"/>
+        <entry endPc="268435981" name="obscurityFlags" stackId="2" startPc="268435496"/>
+        <entry endPc="268435982" name="dc" stackId="1" startPc="268435492"/>
+        <entry endPc="268436046" name="info" stackId="1" startPc="268435982"/>
+        <entry endPc="268436232" name="value" stackId="2" startPc="268436050"/>
+        <entry endPc="268436233" name="dc" stackId="1" startPc="268436046"/>
+        <entry endPc="268436261" name="state" stackId="1" startPc="268436256"/>
+        <entry endPc="268436266" name="state" stackId="1" startPc="268436261"/>
+        <entry endPc="268436383" name="dictionary" stackId="1" startPc="268436342"/>
+        <entry endPc="268436399" name="color" stackId="1" startPc="268436384"/>
+        <entry endPc="268436448" name="dc" stackId="1" startPc="268436399"/>
+        <entry endPc="268436507" name="evt" stackId="1" startPc="268436471"/>
+        <entry endPc="268436932" name="rez_cmp_local_text_value" stackId="6" startPc="268436519"/>
+        <entry endPc="268436932" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268436519"/>
+        <entry endPc="268436932" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268436519"/>
+        <entry endPc="268436932" name="rez_cmp_local_text_label" stackId="5" startPc="268436519"/>
+        <entry endPc="268436932" name="rez_cmp_local_custom_drawable_35002427412662036321" stackId="4" startPc="268436519"/>
+        <entry endPc="268436933" name="dc" stackId="1" startPc="268436507"/>
+        <entry endPc="268437272" name="rez_cmp_local_text_value" stackId="4" startPc="268436945"/>
+        <entry endPc="268437272" name="rez_cmp_local_custom_drawable_41034154013899901233" stackId="2" startPc="268436945"/>
+        <entry endPc="268437272" name="rez_cmp_local_text_label" stackId="3" startPc="268436945"/>
+        <entry endPc="268437273" name="dc" stackId="1" startPc="268436933"/>
+        <entry endPc="268437612" name="rez_cmp_local_text_value" stackId="4" startPc="268437285"/>
+        <entry endPc="268437612" name="rez_cmp_local_custom_drawable_10647843002112950591" stackId="2" startPc="268437285"/>
+        <entry endPc="268437612" name="rez_cmp_local_text_label" stackId="3" startPc="268437285"/>
+        <entry endPc="268437613" name="dc" stackId="1" startPc="268437273"/>
+        <entry endPc="268437952" name="rez_cmp_local_text_value" stackId="4" startPc="268437625"/>
+        <entry endPc="268437952" name="rez_cmp_local_text_label" stackId="3" startPc="268437625"/>
+        <entry endPc="268437952" name="rez_cmp_local_custom_drawable_34634689953699548219" stackId="2" startPc="268437625"/>
+        <entry endPc="268437953" name="dc" stackId="1" startPc="268437613"/>
+        <entry endPc="268438292" name="rez_cmp_local_text_value" stackId="4" startPc="268437965"/>
+        <entry endPc="268438292" name="rez_cmp_local_custom_drawable_10044068561036179183" stackId="2" startPc="268437965"/>
+        <entry endPc="268438292" name="rez_cmp_local_text_label" stackId="3" startPc="268437965"/>
+        <entry endPc="268438293" name="dc" stackId="1" startPc="268437953"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="166" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="237" parentId="globals" symbolId="bellApp" type="class"/>
+        <dataEntry offset="308" parentId="globals" symbolId="bellDelegate" type="class"/>
+        <dataEntry offset="363" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="442" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="481" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="512" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="543" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="614" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="645" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="692" parentId="globals" symbolId="bellView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="bellView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="bellView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="bellView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="bellView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="bellApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="bellApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="bellApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="bellApp">
+            <documentation>
+                <![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setColor" parent="Background">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="bellDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTap" parent="bellDelegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
