@@ -4,6 +4,7 @@ using Toybox.Graphics;
 class bellView extends WatchUi.DataField {
 
     hidden var mValue;
+    hidden var bitmap;
 
     function initialize() {
         DataField.initialize();
@@ -73,8 +74,13 @@ class bellView extends WatchUi.DataField {
             value.setColor(Graphics.COLOR_BLACK);
         }
         //value.setText(mValue.format("%.2f"));
-        value.setText("Tap Here");
+        //value.setText("Tap Here");
         // Call parent's onUpdate(dc) to redraw the layout
+        bitmap = WatchUi.loadResource(Rez.Drawables.LauncherIcon);
+        var bx = (dc.getWidth() / 2) - (bitmap.getWidth() / 2);
+        var by = (dc.getHeight() / 2) - (bitmap.getHeight() / 2);
+
+        value.drawBitmap(bx, by, bitmap);
         View.onUpdate(dc);
     }
 
